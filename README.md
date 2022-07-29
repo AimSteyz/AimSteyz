@@ -1,3 +1,1 @@
-# My Github stats
-![AimSteyz's GitHub stats](https://github-readme-stats.vercel.app/api?username=AimSteyz-ux&hide=issues&show_icons=true&theme=gotham)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AimSteyz-ux&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![AimSteyz's GitHub stats](https://github-readme-stats.vercel.app/api?username=AimSteyz&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
