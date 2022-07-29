@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am in my 4th year at Epitech Paris<br>I like front-end development, both web and mobile<br>but my favorite is video game development and cheating software
+I am a student at Epitech Paris<br>I like front-end development, both web and mobile<br>but my favorite is video game development and cheating software
 
 
 # 💻 Tech Stack:
